@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "api": 1,
+  "id": "example.springtime-town",
+  "name": "Springtime Town",
+  "version": "1.0.0",
+  "authors": [
+    "Play AC Online"
+  ],
+  "description": "Town grass with clover and tiny white flowers, and one new line a day from each villager in their own personality's voice. Textures and data only, no script.",
+  "scope": "client",
+  "content": {
+    "textures": "textures/",
+    "talk": "talk.json"
+  },
+  "assets_original": true
+}

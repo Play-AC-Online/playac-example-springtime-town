@@ -1,0 +1,25 @@
+{
+  "stills": [
+    {
+      "file": "before.webp",
+      "caption": "Before: a corner of town on a September afternoon, with no mods and the HD texture pack."
+    },
+    {
+      "file": "after.webp",
+      "caption": "After: the same spot with Springtime Town installed. The grass is the mod's, drawn with clover and tiny white flowers; the trees, houses and paths are untouched."
+    },
+    {
+      "file": "mod-line.webp",
+      "caption": "The first talk of the day opens on a new line from the mod's talk pools, picked for the villager's personality."
+    },
+    {
+      "file": "own-hello.webp",
+      "caption": "The next page is the villager's own hello: the mod's line comes first, and the game's conversation carries on as usual."
+    }
+  ],
+  "film": {
+    "file": "film.mp4",
+    "poster": "film.webp",
+    "caption": "A walk past the houses on the mod's clover grass, then Twiggy's first talk of the day: the mod's line, then her own words. A second talk skips straight to her hello."
+  }
+}
