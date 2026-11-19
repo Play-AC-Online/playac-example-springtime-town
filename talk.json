@@ -47,6 +47,49 @@
         "I only drink tea from the finest cups. The chipped ones are for guests.",
         "One must always look one's best. Even for the fish."
       ]
+    },
+    {
+      "personality": "normal",
+      "season": "spring",
+      "lines": [
+        "The cherry trees are out! I keep finding petals in my pockets."
+      ]
+    },
+    {
+      "personality": "peppy",
+      "weather": "rain",
+      "lines": [
+        "Rain boots ON! Every puddle in town is mine today!"
+      ]
+    },
+    {
+      "personality": "lazy",
+      "time": "evening",
+      "lines": [
+        "Evening already? I was just about to start my morning nap."
+      ]
+    },
+    {
+      "personality": "jock",
+      "season": "winter",
+      "lines": [
+        "Snow training! Run in it and your legs get twice as strong!"
+      ]
+    },
+    {
+      "personality": "cranky",
+      "weather": "snow",
+      "lines": [
+        "Snow. Again. My nose has been cold since breakfast."
+      ]
+    },
+    {
+      "personality": "snooty",
+      "season": "spring",
+      "time": "morning",
+      "lines": [
+        "A spring morning, darling. Even the air is wearing perfume."
+      ]
     }
   ]
 }

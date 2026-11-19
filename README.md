@@ -4,8 +4,9 @@ A Just you mod (`"scope": "client"`) in two halves, with no script:
 
 - **The grass** (`textures/`): the town grass is our own drawing, seamless
   green ground with clover leaves and small white flowers.
-- **The talk** (`talk.json`): on the first talk of the day, each villager says
-  one new line in their own personality's voice, then their usual hello.
+- **The talk** (`talk.json`): new small talk in each villager's own
+  personality's voice, some of it for the season, the time of day or the
+  weather.
 
 Both are data. Neither changes what a visitor sees, so the mod is Just you.
 
@@ -73,16 +74,23 @@ The pictures were drawn by a small program, never copied from the game.
 
 ## The talk
 
-`talk.json` holds line pools. Each personality has its own pool. On the first
-ordinary talk of the day, a villager says one line from their personality's
-pool. Then they say their usual hello and carry on as normal. Talk again the
-same day and there is no new line.
+Talk to a villager and choose to chat. After their hello they pick a topic,
+the way they always do: a trade, a letter, a hint, or small talk. When they
+pick small talk, the line can come from this mod.
+
+`talk.json` holds line pools. Each personality has its own pool, and a few
+more pools are kept to a moment: a normal villager has a line for spring, a
+peppy one for the rain, a lazy one for the evening, a jock for winter, a
+cranky one for the snow and a snooty one for a spring morning (`"season"`,
+`"time"` and `"weather"`). A pool counts only at its moment, and among the
+pools that count the game picks one line. A villager can say several of the
+mod's lines in a day, and never the same one twice running.
 
 A pool can instead name one villager (`"villager": "Bob"`), or nobody, which
-means every villager. A pool can say a line only on some days
-(`"chance": 40`). The most specific pools that match a villager decide.
+means every villager, and can be said in fewer small talks (`"chance": 30`;
+every small talk when left out). The most specific pools that fit a villager decide.
 
-The game picks the line. No script is needed.
+No script is needed.
 
 ## Install
 
