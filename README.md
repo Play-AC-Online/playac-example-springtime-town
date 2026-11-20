@@ -20,17 +20,17 @@ Before: a corner of town on a September afternoon, with no mods and the HD textu
 
 After: the same spot with Springtime Town installed. The grass is the mod's, drawn with clover and tiny white flowers; the trees, houses and paths are untouched.
 
-![mod line](media/mod-line.webp)
-
-The first talk of the day opens on a new line from the mod's talk pools, picked for the villager's personality.
-
 ![own hello](media/own-hello.webp)
 
-The next page is the villager's own hello: the mod's line comes first, and the game's conversation carries on as usual.
+Twiggy's own hello, then the menu every talk has. Choose "I'm bored!" to chat, and she picks a topic.
+
+![mod line](media/mod-line.webp)
+
+This time the topic is small talk, and her small talk is a line from the mod's peppy pool.
 
 [![Play the film](media/film.webp)](media/film.mp4)
 
-The film (click the picture): A walk past the houses on the mod's clover grass, then Twiggy's first talk of the day: the mod's line, then her own words. A second talk skips straight to her hello.
+The film (click the picture): A walk past the houses on the mod's clover grass, then a chat with Twiggy: her hello, "I'm bored!", and a line from the mod as her small talk.
 
 ## The grass
 
