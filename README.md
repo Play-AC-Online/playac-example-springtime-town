@@ -22,7 +22,7 @@ After: the same spot with Springtime Town installed. The grass is the mod's, dra
 
 ![own hello](media/own-hello.webp)
 
-Twiggy's own hello, then the menu every talk has. Choose "I'm bored!" to chat, and she picks a topic.
+Twiggy's own hello, then the menu after it. Choose "I'm bored!" to chat, and she picks a topic.
 
 ![mod line](media/mod-line.webp)
 
