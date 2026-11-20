@@ -6,7 +6,7 @@ A Just you mod (`"scope": "client"`) in two halves, with no script:
   green ground with clover leaves and small white flowers.
 - **The talk** (`talk.json`): new small talk in each villager's own
   personality's voice, some of it for the season, the time of day or the
-  weather.
+  weather, and an evening goodbye after the topic.
 
 Both are data. Neither changes what a visitor sees, so the mod is Just you.
 
@@ -87,8 +87,14 @@ pools that count the game picks one line. A villager can say several of the
 mod's lines in a day, and never the same one twice running.
 
 A pool can instead name one villager (`"villager": "Bob"`), or nobody, which
-means every villager, and can be said in fewer small talks (`"chance": 30`;
-every small talk when left out). The most specific pools that fit a villager decide.
+means every villager, and can be said less often (`"chance": 30`; every time
+it fits when left out). The most specific pools that fit a villager decide.
+
+The last pool has a place of its own (`"place": "after"`): on an evening
+chat, half the time, any villager adds a line after their topic, as the
+talk's last message. Its line is a list of two pages, each on a clean window.
+A pool's place can also be `"before"` the hello, the `"hello"` itself or the
+whole `"conversation"`; with no place, a line is the villager's small talk.
 
 No script is needed.
 

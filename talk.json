@@ -90,6 +90,17 @@
       "lines": [
         "A spring morning, darling. Even the air is wearing perfume."
       ]
+    },
+    {
+      "place": "after",
+      "time": "evening",
+      "chance": 50,
+      "lines": [
+        [
+          "The sky is going all pink.",
+          "Get home before the stars come out!"
+        ]
+      ]
     }
   ]
 }
