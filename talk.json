@@ -1,6 +1,7 @@
 {
   "pools": [
     {
+      "place": "topic",
       "personality": "normal",
       "lines": [
         "I baked something this morning. The whole house smells like cinnamon now.",
@@ -9,6 +10,7 @@
       ]
     },
     {
+      "place": "topic",
       "personality": "peppy",
       "lines": [
         "Guess what? Nothing happened today, and I'm SO excited about it!",
@@ -17,6 +19,7 @@
       ]
     },
     {
+      "place": "topic",
       "personality": "lazy",
       "lines": [
         "I was going to nap, but then I thought about snacks. Now I'm too busy.",
@@ -25,6 +28,7 @@
       ]
     },
     {
+      "place": "topic",
       "personality": "jock",
       "lines": [
         "I ran around the whole town twice before breakfast. Feel the burn!",
@@ -33,6 +37,7 @@
       ]
     },
     {
+      "place": "topic",
       "personality": "cranky",
       "lines": [
         "Hmph. Kids these days don't even know how to sit on a bench properly.",
@@ -41,6 +46,7 @@
       ]
     },
     {
+      "place": "topic",
       "personality": "snooty",
       "lines": [
         "Darling, your outfit is almost fashionable. Almost.",
@@ -49,6 +55,7 @@
       ]
     },
     {
+      "place": "topic",
       "personality": "normal",
       "season": "spring",
       "lines": [
@@ -56,6 +63,7 @@
       ]
     },
     {
+      "place": "topic",
       "personality": "peppy",
       "weather": "rain",
       "lines": [
@@ -63,6 +71,7 @@
       ]
     },
     {
+      "place": "topic",
       "personality": "lazy",
       "time": "evening",
       "lines": [
@@ -70,6 +79,7 @@
       ]
     },
     {
+      "place": "topic",
       "personality": "jock",
       "season": "winter",
       "lines": [
@@ -77,6 +87,7 @@
       ]
     },
     {
+      "place": "topic",
       "personality": "cranky",
       "weather": "snow",
       "lines": [
@@ -84,6 +95,7 @@
       ]
     },
     {
+      "place": "topic",
       "personality": "snooty",
       "season": "spring",
       "time": "morning",

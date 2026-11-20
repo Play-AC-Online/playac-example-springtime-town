@@ -90,11 +90,13 @@ A pool can instead name one villager (`"villager": "Bob"`), or nobody, which
 means every villager, and can be said less often (`"chance": 30`; every time
 it fits when left out). The most specific pools that fit a villager decide.
 
-The last pool has a place of its own (`"place": "after"`): on an evening
-chat, half the time, any villager adds a line after their topic, as the
-talk's last message. Its line is a list of two pages, each on a clean window.
-A pool's place can also be `"before"` the hello, the `"hello"` itself or the
-whole `"conversation"`; with no place, a line is the villager's small talk.
+Every pool names its place in the talk. The small talk pools say
+`"place": "topic"`: their lines stand in for the topic the villager picks
+when you chat. The last pool says `"place": "after"`: on an evening chat,
+half the time, any villager adds a line after their topic, as the talk's
+last message. Its line is a list of two pages, each on a clean window. A
+pool's place can also be `"before"` the hello, the `"hello"` itself or the
+whole `"conversation"`.
 
 No script is needed.
 
