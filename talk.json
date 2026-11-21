@@ -1,0 +1,118 @@
+{
+  "pools": [
+    {
+      "place": "topic",
+      "personality": "normal",
+      "lines": [
+        "I baked something this morning. The whole house smells like cinnamon now.",
+        "Have you seen the flowers by the river? I could look at them all day.",
+        "I wrote you a letter in my head. Maybe one day I'll put it on paper!"
+      ]
+    },
+    {
+      "place": "topic",
+      "personality": "peppy",
+      "lines": [
+        "Guess what? Nothing happened today, and I'm SO excited about it!",
+        "I practiced my dance moves all night. Want to see? Okay, maybe later!",
+        "Today feels like a sparkly day. Do you feel sparkly too?"
+      ]
+    },
+    {
+      "place": "topic",
+      "personality": "lazy",
+      "lines": [
+        "I was going to nap, but then I thought about snacks. Now I'm too busy.",
+        "Do you ever just lie in the grass and count clouds? I got to three.",
+        "Bugs are my friends. Well, the slow ones are."
+      ]
+    },
+    {
+      "place": "topic",
+      "personality": "jock",
+      "lines": [
+        "I ran around the whole town twice before breakfast. Feel the burn!",
+        "You look strong today. Have you been lifting rocks? Keep it up!",
+        "Every step is a workout if you stomp hard enough!"
+      ]
+    },
+    {
+      "place": "topic",
+      "personality": "cranky",
+      "lines": [
+        "Hmph. Kids these days don't even know how to sit on a bench properly.",
+        "Back in my day the river was wetter. Don't ask me how.",
+        "I'm not grumpy. I'm just thinking very loudly."
+      ]
+    },
+    {
+      "place": "topic",
+      "personality": "snooty",
+      "lines": [
+        "Darling, your outfit is almost fashionable. Almost.",
+        "I only drink tea from the finest cups. The chipped ones are for guests.",
+        "One must always look one's best. Even for the fish."
+      ]
+    },
+    {
+      "place": "topic",
+      "personality": "normal",
+      "season": "spring",
+      "lines": [
+        "The cherry trees are out! I keep finding petals in my pockets."
+      ]
+    },
+    {
+      "place": "topic",
+      "personality": "peppy",
+      "weather": "rain",
+      "lines": [
+        "Rain boots ON! Every puddle in town is mine today!"
+      ]
+    },
+    {
+      "place": "topic",
+      "personality": "lazy",
+      "time": "evening",
+      "lines": [
+        "Evening already? I was just about to start my morning nap."
+      ]
+    },
+    {
+      "place": "topic",
+      "personality": "jock",
+      "season": "winter",
+      "lines": [
+        "Snow training! Run in it and your legs get twice as strong!"
+      ]
+    },
+    {
+      "place": "topic",
+      "personality": "cranky",
+      "weather": "snow",
+      "lines": [
+        "Snow. Again. My nose has been cold since breakfast."
+      ]
+    },
+    {
+      "place": "topic",
+      "personality": "snooty",
+      "season": "spring",
+      "time": "morning",
+      "lines": [
+        "A spring morning, darling. Even the air is wearing perfume."
+      ]
+    },
+    {
+      "place": "after",
+      "time": "evening",
+      "chance": 50,
+      "lines": [
+        [
+          "The sky is going all pink.",
+          "Get home before the stars come out!"
+        ]
+      ]
+    }
+  ]
+}

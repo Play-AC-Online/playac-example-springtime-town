@@ -1,0 +1,25 @@
+{
+  "stills": [
+    {
+      "file": "before.webp",
+      "caption": "Before: a corner of town on a September afternoon, with no mods and the HD texture pack."
+    },
+    {
+      "file": "after.webp",
+      "caption": "After: the same spot with Springtime Town installed. The grass is the mod's, drawn with clover and tiny white flowers; the trees, houses and paths are untouched."
+    },
+    {
+      "file": "own-hello.webp",
+      "caption": "Twiggy's own hello, then the menu after it. Choose \"I'm bored!\" to chat, and she picks a topic."
+    },
+    {
+      "file": "mod-line.webp",
+      "caption": "This time the topic is small talk, and her small talk is a line from the mod's peppy pool."
+    }
+  ],
+  "film": {
+    "file": "film.mp4",
+    "poster": "film.webp",
+    "caption": "A walk past the houses on the mod's clover grass, then a chat with Twiggy: her hello, \"I'm bored!\", and a line from the mod as her small talk."
+  }
+}
